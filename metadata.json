@@ -1,0 +1,6 @@
+{
+  "name": "जापानी साथी",
+  "description": "An interactive, gamified Japanese learning app with Hiragana, Katakana, Kanji, handwriting tracing, quizzes, and Nepali translations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
